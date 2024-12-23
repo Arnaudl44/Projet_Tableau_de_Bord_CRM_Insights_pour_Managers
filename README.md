@@ -62,3 +62,8 @@ Bien que ce ne soit pas l'objectif le plus important pour les directeurs des ven
 La dernière page du tableau de bord permet aux directeurs des ventes de visualiser les performances de leur équipe au cours des trimestres précédents afin d'identifier les tendances.
 
 ![ ](https://github.com/Arnaudl44/Projet_Tableau_de_Bord_CRM_Insights_pour_Managers/blob/main/images/Capture%20d%E2%80%99%C3%A9cran_3.png)
+
+## 🔗 Liens utiles
+
+- [Télécharger le fichier PBIX](https://drive.google.com/file/d/1eGq75_yLONsKiQWKtZixaPvfaij1v3Yo/view?usp=sharing)  
+- [Télécharger les données source](https://drive.google.com/file/d/1NfDCa6ynL2n-5Z40dmAYKAOKr01hC59M/view?usp=sharing)
