@@ -35,11 +35,15 @@ Le tableau de bord étant interactif, j'ai également veillé à le rendre convi
 
 ### 🏆 Performance du trimestre en cours
 
+(https://github.com/Arnaudl44/Projet_Tableau_de_Bord_CRM_Insights_pour_Managers/blob/main/images/Capture%20d%E2%80%99%C3%A9cran_1.png)
+
 Il s'agit de la page principale du rapport, contenant les informations les plus importantes pour les responsables des ventes. Les utilisateurs sélectionnent leur nom dans le filtre du responsable des ventes, et toutes les pages du tableau de bord sont alors renseignées avec les informations de leur équipe.
 
 Les indicateurs clés de performance sont clairement affichés en haut de la page, avec les chiffres du trimestre précédent. Le chiffre moyen de l'ensemble des équipes de vente pour chaque indicateur est également fourni afin d'apporter davatange de contexte. Cela permet au responsable des ventes de voir ses propres chiffres et de comprendre globalement comment il se positionne par rapport aux autres équipes et vers ses propres objectifs.
 
 À partir de la carte des ventes totales, les utilisateurs peuvent cliquer sur la flèche pour accéder plus en détail à la répartition des ventes pour le trimestre en cours. Cela les aide à comprendre où ils ont connu du succès et même à consulter les données de vente détaillées si nécessaire.
+
+![Performance du trimestre en cours](https://github.com/Arnaudl44/Projet_Tableau_de_Bord_CRM_Insights_pour_Managers/blob/main/images/Capture%20d%E2%80%99%C3%A9cran_2.png)
 
 À partir de la fiche de "potentiel de clôture", les managers peuvent également approfondir toutes les opportunités étiquetées comme engageantes pour leur équipe. Ils peuvent utiliser ces détails pour prioriser des actions telles que le suivi des offres à clôturer avant la fin du trimestre et le nettoyage du CRM, par exemple les opportunités qui sont ouvertes depuis trop longtemps et doivent être marquées comme perdues.
 
